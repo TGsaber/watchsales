@@ -45,6 +45,9 @@
         <property name="maxUploadSize" value="10485760000" />  
         <!-- 内存中的最大值 -->
         <property name="maxInMemorySize" value="40960" />  
-    </bean> 
-
+    </bean>
+    <!--对静态资源文件的访问 -->
+    <mvc:resources location="/WEB-INF/css/" mapping="/css/**"/>
+    <mvc:resources location="/WEB-INF/js/" mapping="/js/**"/>
+    <mvc:resources location="/WEB-INF/img/" mapping="/img/**"/>
 </beans>
