@@ -5,9 +5,19 @@
 <head>  
 <%@include file="../common/header.jsp"%>
 <title>雅克德罗</title>
-</head>  
-<body>
+</head>
+<script>
+	//导航 依赖 element 模块，否则无法进行功能性操作
+	layui.use('element', function(){
+	  var element = layui.element;
+	});
+</script>
+<body style="background-color:#393D49">
 <%@include file="../common/navigation.jsp"%>
-    雅克德罗
+<div class="panel-fa">
+	<img src="">
+</div>
+
+
 </body>
 </html>

@@ -1,0 +1,14 @@
+.layui-bg-black-b{
+	background-color:black;
+}
+/* Í·²¿ */
+.header{height: 80px;border-bottom:1px solid #404553;background-color:black;}
+.header .layui-nav{position: absolute; right: 0; top: 0; padding: 0; background: none;}
+.header .layui-nav .layui-nav-item{margin: 0 15px;line-height: 80px; }
+.header .layui-nav-child{top:85px;}
+
+.panel-fa {
+	margin: 0 auto;
+	width:99.7%;
+	border:solid 1px red;
+}
