@@ -5,8 +5,9 @@
 	background-color:black;
 }
 /* Í·²¿ */
-.header{height: 80px;
-		background-color:black;
+.header{
+	height: 80px;
+	background-color:black;
 }
 .header .layui-nav{
 	position: absolute; 

@@ -5,12 +5,12 @@
 			<a class="logo" href=""><img src="${ctx}/img/logo.jpg"></a>
 			<ul class="layui-nav layui-bg-black-b">
 			
-			  <li class="layui-nav-item"><a href="">最新活动1</a></li>
-			  <li class="layui-nav-item"><a href="">最新活动2</a></li>
-			  <li class="layui-nav-item"><a href="">最新活动3</a></li>
-			  <li class="layui-nav-item"><a href="">最新活动4</a></li>
-			  <li class="layui-nav-item"><a href="">最新活动5</a></li>
-			  <li class="layui-nav-item"><a href="">最新活动6</a></li>
+			  <li class="layui-nav-item"><a href="${ctx}/serieswatches/showwatches">系列表款</a></li>
+			  <li class="layui-nav-item"><a href="">销售网点</a></li>
+			  <li class="layui-nav-item"><a href="">新闻动态</a></li>
+			  <li class="layui-nav-item"><a href="">艺术工坊</a></li>
+			  <li class="layui-nav-item"><a href="">雅克德罗（JD）的世界 </a></li>
+			  <li class="layui-nav-item"><a href="">客户服务</a></li>
 			  
 			    <li class="layui-nav-item">
 			    <a href=""><img src="http://t.cn/RCzsdCq" class="layui-nav-img">我</a>
