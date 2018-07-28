@@ -15,9 +15,31 @@
 <body class="bg-color-black">
 <%@include file="../common/navigation.jsp"%>
 <div class="panel-fa">
-
-	系列表款
-
+	<div class="layui-card">
+	  <div class="layui-card-header body-card-header"><h1>COLLECTIONS</h1></div>
+	  <div class="layui-card-body">
+			<div class="body-in-fa">
+				<a href="${ctx}/serieswatches/inwatches">
+					<div class="body-in-chr">
+					 <img src="${ctx}/img/p2.jpg">
+					</div>
+				</a>
+				<div class="body-in-chr"></div>
+				<div class="body-in-chr"></div>
+				<div class="body-in-chr"></div>
+				<div class="body-in-chr"></div>
+				<div class="body-in-chr"></div>
+				<div class="body-in-chr"></div>
+				<div class="body-in-chr"></div>
+				<div class="body-in-chr"></div>
+				<div class="body-in-chr"></div>
+				<div class="body-in-chr"></div>
+				<div class="body-in-chr"></div>
+				
+				<div class="clear-both"></div>
+			</div>
+	  </div>
+	</div>
 </div>
 </body>
 </html>

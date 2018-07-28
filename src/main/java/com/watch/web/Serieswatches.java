@@ -10,7 +10,16 @@ public class Serieswatches {
       
     @RequestMapping(value="/showwatches")
     public String ShowWatches(Model model){
+    	
+    	
+    	
       return "showwatches";
+    }
+    
+    @RequestMapping(value="/inwatches")
+    public String InWatches(Model model){
+    	  	
+      return "inwatches";
     }
     
 }
