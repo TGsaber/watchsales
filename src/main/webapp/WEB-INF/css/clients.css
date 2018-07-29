@@ -1,10 +1,15 @@
+.header-position{
+	position:fixed;
+	top:0;
+	left:0;
+}
 .bg-color-black{
 	background-color:black;
 }
 .layui-bg-black-b{
 	background-color:black;
 }
-/* Í·²¿ */
+
 .header{
 	height: 80px;
 	background-color:black;
@@ -159,7 +164,6 @@
 .body-in-fa2{
 	border:solid 1px red;
 	width:100%;
-	padding-bottom:50px;
 }
 .img-l{
 	margin-left:550px;
@@ -170,4 +174,57 @@
 }
 .in-toun img{
 	width:100%;
+}
+.img-two{
+	width:650px;
+	margin-left:300px;
+	height:600px;
+	float:left;
+	margin-top:150px;
+}
+.img-two img{
+	width:650px;
+	height:550px;
+}
+.text-two{
+	min-width:650px;
+	color:#fff;
+	float:left;
+}
+.art-mid{
+	margin-left:-1px; 
+	width: 100%;
+	margin-top:0px; 
+	float:left; 
+	background:url(../img/JAQUET.PNG) repeat-y;
+	height:875px;
+	background-size:100%,100%;
+	background-attachment:fixed;
+}
+.nav-u{
+	margin-top:800px;
+	width:100%; 
+	height:75px; 
+	float:left;
+	background:#000;
+	background-color:rgba(0,0,0,0.2);
+	font-size:30px;
+	color:#fff;
+	padding-left:44%;
+	margin-bottom:50px;
+}
+.text-2{
+	width:45%;
+	font-family: 'gill_sansregular', arial;
+    font-size: 11pt;
+    line-height:35px;
+    margin-left:30%;
+	margin-top:50px;
+	border: solid 1px red;
+}
+.text-2 h5{
+	text-indent:24px;
+}
+.t-color-b{
+	color:#fff;
 }

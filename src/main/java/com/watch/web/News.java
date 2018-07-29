@@ -18,5 +18,11 @@ public class News {
       return "thehistoary";
     }
     
+    @RequestMapping(value="/arts")
+    public String arts(Model model){
+      return "arts";
+    }
+    
+    
 }
 

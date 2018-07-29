@@ -26,7 +26,7 @@
 				<div class="clear-both"></div>
 			</div>
 			<div  class="vid-size">
-					<video width="100%" height="1300" src="${ctx}/img/h1.mp4" type="video/mp4" controls="controls" poster="${ctx}/img/video.jpg"></video>
+					<video width="100%" height="1300" src="${ctx}/img/h1.mp4" autoplay="autoplay" type="video/mp4" poster="${ctx}/img/video.jpg"></video>
 			</div>
 			<div class="clear-both"></div>
 			<div class="body-in-fa2" style="background-color:#fff">
@@ -66,11 +66,52 @@
 				<div class="in-toun">
 					<img src="${ctx}/img/b7.jpg"/>
 				</div>
+				
+				
 				<div class="clear-both"></div>
 			</div>	
 			<div class="body-in-fa">
-			
-			
+				<div class="img-two">
+					<img src="${ctx}/img/2000.jpg">
+				</div>
+				<div class="text-two">
+					2000 雅克德罗钟表公司（Montres Jaquet Droz）为斯沃琪集团（Swatch Group）并购，加入并壮大了集团的奢华钟表系列。自并购日起，集团决定使品牌重现启蒙时代的辉煌，并保留品牌创始人的杰出创作。斯沃琪集团为雅克德罗（Jaquet Droz）提供专业的技术资源以及优良的生产系统，及国际销售网络。	2002 雅克德罗（Jaquet Droz）推出大秒针（Grande Seconde）设计，此设计灵感源于一款创制于18世纪的怀表。作为品牌的经典设计，它优雅地演绎了品牌精湛的大明火（Grand Feu）珐琅工艺。表盘上设有两个针盘，偏心时分显示盘位于12时位置，秒针盘位于6时位置，缱绻相交，熠熠生辉
+				</div>
+				
+				<div class="img-two">
+					<img src="${ctx}/img/2008.jpg">
+				</div>
+				<div class="text-two">
+					2008 怀表系列（The Pocket Watch）问世，它是几个世纪绵延流长的钟表传奇。这1785 年设计的表款穿越年代，成为经典表款大明火珐琅大秒针（Grande Seconde Enamel） 的灵感缪斯，为这一从启蒙时代起，经久不衰的品牌哲学谱写了一曲颂歌。
+				</div>
+				<div class="text-two">
+					2009 尼古拉斯•G•海耶克（Nicolas G. Hayek）担任雅克德罗钟表公司（Montres Jaquet Droz）总裁， 并设立指导委员会。 2010 马克•A•海耶克（Marc A. Hayek）接管雅克德罗钟表公司（Montres Jaquet Droz），致力培养追求卓越与创新的理念，秉承诞生于十八世纪的注重情感与诗意的品牌价值观。
+				</div>
+				
+				<div class="img-two">
+					<img src="${ctx}/img/2010.jpg">
+				</div>
+				<div class="text-two">
+					2010 推出月相（The Eclipse）腕表，表盘上八颗恒星点缀其间，与众不同。“8”是雅克德罗（Jaquet Droz）的幸运数字。表盘上还刻有月亮图案，随日夜更替不断变化。月亮图案设计灵感源于十八世纪，巧妙呼应品牌的起源以及雅克德罗（Jaquet Droz）自启蒙时代起对于装饰艺术的钟爱。
+				</div>
+				<div class="img-two">
+					<img src="${ctx}/img/2011.jpg">
+				</div>
+				
+				<div class="text-two">
+					2011 雅克德罗（Jaquet Droz）将陀飞轮这极复杂工艺精准时计运用于其经典表款大秒针（Grande Seconde）腕表之上。经过对创新设计及蓝宝石和大明火（Grand Feu）珐琅等传统工艺的悉心研究之后，雅克德罗（Jaquet Droz）的制表大师们最终决定将陀飞轮置于12时位置的偏心秒盘中央。
+				</div>
+				
+				<div class="img-two">
+					<img src="${ctx}/img/2018.jpg">
+				</div>
+				
+				<div class="text-two">
+					2018 精彩继续……
+				</div>
+				
+				
+				<div class="clear-both"></div>
 			</div>
 	  </div>
 	</div>
